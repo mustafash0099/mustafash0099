@@ -5,7 +5,7 @@ Android & Flutter developer in Vilnius, Lithuania. I build complete products: mo
 ### What I work on
 
 - **Mobile (since 2020):** Android (Kotlin, Java) and Flutter apps for freelance clients, mostly video-streaming apps for phones, Android TV and Amazon Fire TV.
-- **SpaceARHQ (2026):** an accounts-receivable product for finance teams that connects to Xero and Microsoft 365. I chose the architecture and built it end to end: FastAPI, Celery, Next.js, PostgreSQL and Docker on Azure, with 390+ automated tests and CI/CD. Live at [spacearhq.com](https://spacearhq.com).
+- **SpaceARHQ (2026):** an accounts-receivable product for finance teams that connects to Xero and Microsoft 365. I chose the architecture and built it end to end: FastAPI, Celery, Next.js, PostgreSQL and Docker on Azure, with 390+ automated checks and CI/CD. Live at [spacearhq.com](https://spacearhq.com).
 - **SmartCody ERP:** an Arabic-first (RTL) ERP for construction companies, built with NestJS, Next.js, Prisma and PostgreSQL.
 
 ### How I work
